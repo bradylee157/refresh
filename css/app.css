@@ -29,6 +29,10 @@ article {
 	margin: 2rem 0;
 }
 
+section {
+	margin: 3rem 0;
+}
+
 /* So far, only used in the footer */
 address {
 	margin-bottom: 1rem;
