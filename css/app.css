@@ -22,20 +22,20 @@ h1,h2,h3,h4,h5,h6 {
 
 /* Occurs only once in foundation.css */
 main {
-	margin: 3rem 0;
+	padding: 3rem 0;
 }
 
 article {
-	margin: 2rem 0;
+	padding: 2rem 0;
 }
 
 section {
-	margin: 3rem 0;
+	padding: 3rem 0;
 }
 
 footer {
-	margin: 10rem 0;
-	background-color: #555;
+	padding: 3rem 0;
+	background-color: #999;
 }
 
 /* So far, only used in the footer */
