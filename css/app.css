@@ -33,6 +33,11 @@ section {
 	margin: 3rem 0;
 }
 
+footer {
+	margin: 10rem 0;
+	background-color: #555;
+}
+
 /* So far, only used in the footer */
 address {
 	margin-bottom: 1rem;
